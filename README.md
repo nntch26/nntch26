@@ -1,5 +1,6 @@
-# 💫 About Me:
-I’m interested in Web Developer (Back-End)<br>I'm learning Python , HTML , CSS.
+## Hi, I'm Natcha Nernkrang (Nam) 👋 
+I recently graduated with a degree in Information Technology, majoring in Software Development, from King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand.
+I'm passionate about web development and always trying to learn and grow. I have experience building both Frontend and Backend using Next.js, Django, and Odoo. My goal is to become a Full-Stack Developer and build impactful products. 🚀
 
 
 ## 🌐 Socials:
