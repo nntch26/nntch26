@@ -1,13 +1,16 @@
 # Hi, I'm Natcha Nernkrang (Nam) 👋 
 🎓 I recently graduated with a degree in **Information Technology**, majoring in **Software Development**, from King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand.
 
----
-
 ## About Me
 
 I'm passionate about web development and always striving to learn and grow. I have experience building web applications using **Next.js, TypeScript, Node.js (Express), Django, and Odoo ERP**, with proficiency in **RESTful API** development and database management **(PostgreSQL, MySQL, MongoDB)**. My experience spans both Frontend and Backend development, and my goal is to become a skilled **Full-Stack Developer** who builds impactful products. 🚀
 
 Currently, I'm deepening my web development skills and exploring more about **deployment** and **DevOps** practices.
+
+
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nntch26@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nutchar.nunkrang)
 
 ---
 
@@ -53,10 +56,4 @@ Currently, I'm deepening my web development skills and exploring more about **de
 - Contributed to the backend development of a **Telesales system** using **Laravel**, focusing on sales call management and call status tracking for agents.
 - Developed **Cron Jobs** for automated notification systems to follow up on sales.
 - Implemented a **Real-time Chat system** by integrating a Socket Server with the **LINE Messaging API**, enabling agents to communicate directly with customers via the web interface.
-
-
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nntch26@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nutchar.nunkrang)
 
