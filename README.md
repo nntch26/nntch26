@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm passionate about web development and always striving to learn and grow. My experience spans both **Frontend** and **Backend** development, and my goal is to become a skilled **Full-Stack Developer** who builds impactful products. 🚀
+I'm passionate about web development and always striving to learn and grow. I have experience building web applications using **Next.js, TypeScript, Node.js (Express), Django, and Odoo ERP**, with proficiency in **RESTful API** development and database management **(PostgreSQL, MySQL, MongoDB)**. My experience spans both Frontend and Backend development, and my goal is to become a skilled **Full-Stack Developer** who builds impactful products. 🚀
 
 Currently, I'm deepening my web development skills and exploring more about **deployment** and **DevOps** practices.
 
