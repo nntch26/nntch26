@@ -9,6 +9,8 @@ I'm passionate about web development and always striving to learn and grow. My e
 
 Currently, I'm deepening my web development skills and exploring more about **deployment** and **DevOps** practices.
 
+## 📫 Contact
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nntch26@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nutchar.nunkrang)
 
@@ -57,5 +59,4 @@ Currently, I'm deepening my web development skills and exploring more about **de
 - Contributed to the backend development of a **Telesales system** using **Laravel**, focusing on sales call management and call status tracking for agents.
 - Developed **Cron Jobs** for automated notification systems to follow up on sales.
 - Implemented a **Real-time Chat system** by integrating a Socket Server with the **LINE Messaging API**, enabling agents to communicate directly with customers via the web interface.
-
 
