@@ -54,6 +54,7 @@ Currently, I'm deepening my web development skills and exploring more about **de
 ## 💼 Work Experience
 
 ### Backend Developer Intern — Asha Tech Corporation Co., Ltd *(Software House)*
+*April 2025 - June 2025*
 - Contributed to the backend development of a **Telesales system** using **Laravel**, focusing on sales call management and call status tracking for agents.
 - Developed **Cron Jobs** for automated notification systems to follow up on sales.
 - Implemented a **Real-time Chat system** by integrating a Socket Server with the **LINE Messaging API**, enabling agents to communicate directly with customers via the web interface.
