@@ -58,8 +58,8 @@ Currently, I'm deepening my web development skills and exploring more about **de
 
 ### ERP Functional Implementation Developer — Dynamics Motion Co.,Ltd
 *May 2026 - Oct 2026*
-- Developed and customized Odoo ERP (Python) and customized reports to support specific business processes for Trading (FMCG) and Manufacturing (OEM) clients. 
-- Collaborated with the consultant team to analyze and design business workflows. Gathered client requirements, analyzed current processes, and proposed new ERP-supported solutions with clear demonstrations.
+- **Developed and customized Odoo ERP (Python)** and customized reports to support specific business processes for Trading (FMCG) and Manufacturing (OEM) clients. 
+- **Collaborated with the consultant team to analyze and design business workflows.** Gathered client requirements, analyzed current processes, and proposed new ERP-supported solutions with clear demonstrations.
 
 ### Backend Developer Intern — Asha Tech Corporation Co., Ltd *(Software House)*
 *April 2025 - June 2025*
